@@ -59,7 +59,7 @@ Learn more about MNIST
 
 # How to Run
 ## Clone this repository
-git clone https://github.com/yourusername/SGD_Fastai_Vs_PyTorch.git
+git clone 
 cd SGD_Fastai_Vs_PyTorch
 
 ## Install required libraries
